@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+.system_generated/
+dump_db.py
+assets/*.jpg
+assets/*.png
+assets/*.jpeg
